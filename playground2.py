@@ -1,9 +1,9 @@
 # sentence = input("Enter Sentence: ")
 # print(sentence.lower())
- 
+
 # for x in range(1,11):
 #     print(x)
- 
+
 # for x in range (1, 100):
 #  if x / 2 != 0:
 #      print(x)
